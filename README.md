@@ -15,12 +15,7 @@
 
 ## 🧠 About Me
 
-```text
-Name     : Ashrafus Saad
-Status   : B.Tech CSE — 3rd Year (KIIT University)
-Location : Bangladesh
-Mode     : Student learning in public — honest and hungry
-```
+
 
 I'm not going to pretend I have it all figured out.  
 I'm a CSE student who got tired of knowing theory without building anything real.  

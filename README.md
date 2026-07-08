@@ -70,20 +70,7 @@ const ashraf = {
   openTo            : ["Collaborations", "Feedback on my code", "Open Source issues"]
 }
 ```
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrafulsaad&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulsaad&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashrafulsaad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ---
 
